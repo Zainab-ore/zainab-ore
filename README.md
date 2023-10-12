@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ms-zainny
+- 👋 Hi, I’m zainab
 - 👀 I’m interested in working with new people
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any project
